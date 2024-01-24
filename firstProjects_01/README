@@ -1,0 +1,28 @@
+
+Project description:-
+
+This is a simple url shortener application
+
+=================================================
+
+Requirements are:-
+
+  1  Streamlit
+        -It's a low-code tool that requires less coding than other technologies like HTML, CSS, and JavaScript.
+        -pip install streamlit
+        -https://pypi.org/project/pyshorteners/
+
+
+  2  pyshorteners
+        -A simple URL shortening API wrapper Python library.
+        -pip install pyshorteners
+        -https://pypi.org/project/streamlit/
+
+
+
+Run code:-
+      # Running
+      python -m streamlit run your_script.py
+
+      # is equivalent to:
+      streamlit run your_script.py
